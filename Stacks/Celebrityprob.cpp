@@ -19,6 +19,8 @@ using namespace std;
 
 
 
+
+
 bool knows(vector<vector<int> >&M,int a ,int b,int n){
     if(M[a][b]==1){
         return true;
